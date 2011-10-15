@@ -1,0 +1,6 @@
+.DS_Store
+www/sites/default/settings.php
+www/sites/default/files
+www/cache
+._*
+

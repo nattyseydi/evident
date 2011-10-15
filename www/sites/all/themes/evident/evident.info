@@ -1,0 +1,28 @@
+name = Evident
+description = Evident is a wonderful drupal theme .
+package = Core
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = styles.css
+stylesheets[all][] = local.css
+
+
+regions[header]          = Header
+regions[navigation]      = Navigation
+regions[preface_top]     = Preface Top
+regions[preface_one]     = Preface One
+regions[preface_two]     = Preface Two
+regions[preface_three]   = Preface Three
+regions[preface_four]    = Preface Four
+regions[sidebar_second]  = Second Sidebar
+regions[highlighted]     = Highlighted
+regions[content]         = Content
+regions[bottom_top]      = Bottom Top
+regions[bottom_one]      = Bottom One
+regions[bottom_two]      = Bottom Two
+regions[bottom_three]    = Bottom Three
+regions[bottom_four]     = Bottom Four
+regions[help]            = Help
+regions[footer]          = Footer
+
+
