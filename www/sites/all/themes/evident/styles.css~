@@ -1,0 +1,56 @@
+/* Css */
+
+#preface-wrapper {
+width:950px;
+margin:5px auto 0;
+padding-left: 75px;
+}
+
+#preface-wrapper .column {
+float: left;
+}
+
+#preface-wrapper.in1 .column {
+width: 100%;
+}
+
+#preface-wrapper.in2 .column {
+width: 50%;
+}
+
+#preface-wrapper.in3 .column {
+width: 33.3%;
+}
+
+#preface-wrapper .block {
+margin: 0 15px;
+}
+
+#preface-wrapper .block-title {
+margin-top:15px;
+}
+
+#preface-wrapper .region {
+margin:15px 0;
+}
+
+#mission {
+font-size:1.6em;
+color:#002054;
+display:block;
+float:right;
+line-height:1.2em;
+}
+
+#mission .contextual-links {
+font-size: 84%;
+}
+
+#mission .block-title {
+margin-top:20px;
+}
+
+#mission .region {
+margin:20px;
+}
+
